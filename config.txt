@@ -1,0 +1,12 @@
+url_games https://github.com/LiberiBg/PKGi-cleanedDB/blob/main/pkgi_games.txt
+url_dlcs https://github.com/LiberiBg/PKGi-cleanedDB/blob/main/pkgi_dlcs.txt
+url_themes https://github.com/LiberiBg/PKGi-cleanedDB/blob/main/pkgi_themes.txt
+url_avatars https://github.com/LiberiBg/PKGi-cleanedDB/blob/main/raw_pkgi_avatars.txt
+url_demos https://github.com/LiberiBg/PKGi-cleanedDB/blob/main/raw_pkgi_demos.txt
+language fr
+content 1
+sort name
+order desc
+filter EUR
+dl_mode_background 1
+no_music 1
